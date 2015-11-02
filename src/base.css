@@ -69,6 +69,9 @@
 @custom-media --breakpoint-lg (min-width: 64em);
 */
 
+.fit-img{
+  max-width: 440px;
+}
 
 /* Custom properties */
 
